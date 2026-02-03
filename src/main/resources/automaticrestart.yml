@@ -1,0 +1,17 @@
+settings:
+  enableScriptFile: true
+  pathToScript: "start.sh"
+
+scheduler:
+  timeZone: "Europe/Moscow"
+  restartTimes:
+    - "00:00"
+    - "12:00"
+  countdownSeconds: 10
+  warningMessages:
+    "600": "The server will be rebooted in 10 minutes..."
+    "300": "The server will be rebooted in 5 minutes..."
+    "180": "The server will be rebooted in 3 minutes..."
+    "60": "The server will be rebooted in 1 minutes..."
+  countdownMessage: "The server will reboot through %s seconds"
+  disconnectMessage: "The server reboots, please wait a couple of minutes"

@@ -5,18 +5,18 @@
 	"name": "Automatic Restart",
 	"description": "A server mod that adds the restart command and also a scheduled reboot in time, which can be configured in the configuration file.",
 	"authors": [
-		"Me!"
+		"Kaelos"
 	],
 	"contact": {
-		"homepage": "",
-		"sources": ""
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/automaticrestart",
+		"sources": "https://github.com/Kaelos-dev/AutomaticRestart"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/automaticrestart/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"server": [
-			"com.example.TemplateMod"
+			"net.kaelos.ar.AutomaticRestart"
 		]
 	},
 	"depends": {
