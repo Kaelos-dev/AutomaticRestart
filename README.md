@@ -1,6 +1,7 @@
 <div id="header" align="center">
 
-<img src="src/main/resources/assets/automaticrestart/icon.png" width="128" height="128">
+<img src="src/main/resources/assets/automaticrestart/icon.png" width="128" height="128"/>
+
 # AutomaticRestart
 
 ![fabric](https://img.shields.io/badge/fabric-1.21.11-6161ff?&style=for-the-badge)
