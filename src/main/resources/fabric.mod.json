@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "automaticrestart",
+	"version": "${version}",
+	"name": "Automatic Restart",
+	"description": "A server mod that adds the restart command and also a scheduled reboot in time, which can be configured in the configuration file.",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "",
+		"sources": ""
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/automaticrestart/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"server": [
+			"com.example.TemplateMod"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
