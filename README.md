@@ -1,9 +1,9 @@
 <div id="header" align="center">
 
-![icon.png](src/main/resources/assets/automaticrestart/icon.png)
+<img src="src/main/resources/assets/automaticrestart/icon.png" width="128" height="128">
 # AutomaticRestart
 
-![fabric](https://img.shields.io/badge/fabric-1.21.11-6161ff?&style=for-the-badge)](https://www.curseforge.com/minecraft/mc-mods/autorestart/files/all)
+![fabric](https://img.shields.io/badge/fabric-1.21.11-6161ff?&style=for-the-badge)
 
 </div>
 
